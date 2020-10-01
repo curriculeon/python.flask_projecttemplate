@@ -10,4 +10,6 @@
 
 
 ### How to run this
-1. Upon executing `python web.py`, navigate to `localhost:8080` to view the webpage.
+* Upon executing `python web.py`, navigate to `localhost:8080` to view the webpage.
+
+<img src="./VIEWME.gif">
